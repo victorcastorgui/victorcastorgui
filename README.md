@@ -2,4 +2,4 @@
 - 👀 I’m interested in software developing
 - 🌱 I’m currently pursuing my Computer and Information Sciences degree.
 - 💞️ I’m looking to collaborate on app making
-- 📫 How to reach me by email: victorcastorgui@gmail.com
+- 📫 How to reach me by email: victorcastorgui@gmail.com insta: @victorcastorgui
