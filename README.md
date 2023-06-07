@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @victorcastorgui
-- 👀 I’m interested in software developing, full stack web, and app developing
-- 🌱 I’m currently pursuing my Computer and Information Sciences degree.
-- 💞️ I’m looking to collaborate on app and web making
-- 📫 How to reach me by email: victorcastorgui@gmail.com insta: @victorcastorgui
+- Hi, I’m @victorcastorgui
+- I’m interested in software developing, full stack web, and app developing
+- Graduated from The Ohio State University with Bachelors in Computer and Information Sciences.
+- I’m looking to collaborate on app and web making
+- How to reach me by email: victorcastorgui@gmail.com insta: @victorcastorgui
